@@ -1,5 +1,5 @@
 if __name__ == '__main__':
-    x=int (input("Ingrea un numero: "))
+    x=int (input("Ingrea un numero entero: "))
     y=int (input("Ingresa la potencia"))
 
     i:int=1
@@ -10,3 +10,4 @@ if __name__ == '__main__':
         i+=1
 
     print(f"el resultado de {x}^{y}={pot}")
+    print("Puedes ingresar mas numeros")
