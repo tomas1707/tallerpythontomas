@@ -5,11 +5,11 @@ if __name__ == '__main__':
 
     print(x3)
 
-    nombre="Javier "
+    nombre="Javier Alfonso "
     ap="Ortega "
     am="Mendez "
 
-    #Aqui estamo concatenando
+    #Aqui estamos concatenando
     completo= nombre+ap+am
 
     """
