@@ -5,11 +5,11 @@ if __name__ == '__main__':
 
     if a>b:
         if a>c:
-            print (f"El mayor es {a}")
+            print (f"El número mayor es {a}")
         else:
-            print (f"El mayor es {c}")
+            print (f"El número mayor es {c}")
     else:
         if b>c:
-            print (f"El mayor es {b}")
+            print (f"El número mayor es {b}")
         else:
-            print (f"El mayor es {c}")
+            print (f"El número mayor es {c}")
